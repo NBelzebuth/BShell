@@ -12,3 +12,5 @@
 * kali linux terminal
 * var commande
 * $year, $day, $month, $hour, $minute, $second
+
+### If you have any questions contact me : 𝕭𝖊𝖑𝖟𝖊𝖇𝖚𝖙𝖍#7378 on discord

@@ -2,7 +2,7 @@
 
     "bsh" : {
         "name" : "B.SHell",
-        "version" : "3.0.0",
+        "version" : "7.22.3a",
         "author" : "JbGt/Belz",
         "lines" : "({path}) {os.environ['COMPUTERNAME']}: $ ",
         "copyright" : "B.SH is a shell developped by belz. Powered by python 3.8\nType 'help' for more informations",

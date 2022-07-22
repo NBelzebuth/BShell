@@ -1,0 +1,16 @@
+{
+
+    "bsh" : {
+        "name" : "B.SHell",
+        "version" : "3.0.0",
+        "author" : "JbGt/Belz"
+    },
+
+    "command" : "using file crypt test test.c test",
+
+    "flow" : {
+        "permission" : 0,
+        "id" : 1,
+        "to" : 2
+    }
+}

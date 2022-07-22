@@ -1,0 +1,61 @@
+{
+
+    "bsh" : {
+        "name" : "B.SHell",
+        "version" : "3.0.0",
+        "author" : "JbGt/Belz",
+        "lines" : "({path}) {os.environ['COMPUTERNAME']}: $ ",
+        "copyright" : "B.SH is a shell developped by belz. Powered by python 3.8\nType 'help' for more informations",
+        "echo" : true,
+        "background" : "0f",
+        "title" : "BSHell"
+    },
+
+    "loop" : {
+        "during" : 120
+    },
+
+    "vars" : 
+        {
+            "Active" : true,
+            "shell" : true,
+            "version" : true,
+            "username" : true,
+            "random" : true,
+            "homedrive" : true,
+            "homepath" : true,
+            "root" : true,
+            "os" : true,
+            "os.platform" : true,
+            "os.name" : true,
+            "os.release" : true,
+            "ip" : true,
+            "publicip" : true,
+            "mylocation" : true,
+            "addresslocate" : true,
+            "locate" : true,
+            "all" : true,
+            "date" : true,
+            "datetime" : true, 
+            "time" : true,
+            "file.read" : false
+        },
+    "commands" : {
+            "Active" : true
+        },
+    "libs" : {
+        "Active" : true,
+        "file" : {
+            "isDownload" : true,
+            "isActive" : true, 
+            "isVar" : false,
+            "isLib" : true
+        },
+        "discord" : {
+            "isDownload" : true,
+            "isActive" : true, 
+            "isVar" : false,
+            "isLib" : true
+        }
+    }
+}

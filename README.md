@@ -1,7 +1,7 @@
 # BShell
 
 ### Infos :
-* if the modules installation doesn't work you can download the libs : geopy, requests, rich
+* if the modules installation doesn't work you can download the libs : geopy, requests, rich, pytube
 
 ### Documentation (comming soon)
 

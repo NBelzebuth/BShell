@@ -1,10 +1,9 @@
 # BShell
 
 ### Infos :
-* if the modules installation doesn't work you can download the libs : geopy, requests
+* if the modules installation doesn't work you can download the libs : geopy, requests, rich
 
 ### Documentation (comming soon)
-
 
 ### Comming soon :
 * console.new, console.id = 2.echo Hello, World! etc... (In dev)
